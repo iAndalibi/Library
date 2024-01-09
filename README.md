@@ -1,2 +1,1 @@
-# Library
-This is
+# Code Snippets Library
